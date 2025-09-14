@@ -1,0 +1,14 @@
+# declare variable 
+state =["Texas","Kansas","Oklahoma","Alabama","Virginia"]
+print(state)
+
+while True:
+
+    # Ask question "What states do you want to have?"
+    new_state = (input("What state are you looking for?"))
+
+    # add state to list
+    state.remove(new_state)
+
+    #"California", "Maryland", "New York")
+    print(state)
