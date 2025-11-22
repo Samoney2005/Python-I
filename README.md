@@ -1,4 +1,4 @@
-# **Code-Classes**
+# **Code-Learning**
 
 Welcome to my coding space!  
 This repository contains projects, exercises, and learning notes across multiple programming languages as I grow as a developer.
